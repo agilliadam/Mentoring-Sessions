@@ -5,7 +5,7 @@ import java.util.Comparator;
 public abstract  class Animal implements Movable {  //public abstract  class Animal implements Movable, Comparable, Comparator, Runnable {
 
 
-    int age = 12;
+    int age = 13;
   double weight;
 
     public int getAge() {
